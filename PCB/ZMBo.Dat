@@ -1,0 +1,22 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ZMBo.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\ZMBo\PCB\ZMBo.PrjPcb|ReportField=Title~Bill of Materials For Project [ZMBo.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~45|ReportField=ReportTime~10:01:56 PM|ReportField=ReportDate~2/18/2014|ReportField=ReportDateTime~2/18/2014 10:01:56 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/18/2014|ReportField=CurrentTime~10:01:45 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\ZMBo\PCB\Channel Confifuration.SchDoc|ReportField=DocumentName~Channel Confifuration.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/18/2014|ReportField=Organization~|ReportField=ProjectName~ZMBo.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~ZMBo.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\ZMBo\PCB\ZMBo.PrjPcb
+VAS B|Capacitor (Semiconductor SIM Model)|C1|Panasonic VS B|Cap Semi|1
+0603|Capacitor (Semiconductor SIM Model)|C2, C3, C4, C5, C6, C7|1608[0603]|Cap Semi|6
+Cap Semi|Capacitor (Semiconductor SIM Model)|C8, C66, C67|1608[0603]|Cap Semi|3
+SZMM3Z4V7T1G|Zener Diode|D1|SZMM3Z4V7T1G|D Zener|1
+LED1|Typical RED GaAs LED|D2|SM 0805 polarized|LED1|1
+B240A-13-F|Schottky Diode|D3|SMB|D Schottky|1
+Diode 1N4148|High Conductance Fast Diode|D10, D11|1N4148WT|Diode 1N4148|2
+TP4|Socket|DIR_TP1, EN_TP1, REF_TP1, STEP_TP1, THM_TP1|PIN1|Socket|5
+Socket|Socket|FET_TP_1, FET_TP_GND1|PIN1|Socket|2
+Molex 0705430003 4 Pin Connector_1||M1|Molex 0705430003|Molex 0705430003 4 Pin Connector_1|1
+Molex 70543-03||MAX1, MIN1|MOLEX Endstop|Molex Endstop|2
+Header 2|Header, 2-Pin|P1, P2|HDR1X2|Header 2|2
+PSMN7R0-60YS|N-Channel MOSFET|Q1|PSMN7R0-60YS|PSMN7R0-60YS|1
+0603|Resistor|R1, R4, R5, R8, R9, R10|J1-0603|Res3|6
+1206|Resistor|R2, R3|1206 SMD Resistor|Res3|2
+Res3|Resistor|R6, R7, R38, R39|J1-0603|Res3|4
+con-phoenic-508-10|con-phoenic-508-10|T1|con-phoenix-508 - 10|con-phoenic-508-10|1
+Molex 70543-02|Molex 70543-02|T2|Molex 70543-02|Molex 70543-02|1
+A4982|Alllegor A4982 Stepper Driver|U1|QFN50P508X508X100_HS-33N|A4982|1
+AD5206||U2|AD5206 & AD5204|AD5206|1
+MAX31855EASA+|Cold Junction Compensated Thermocouple to Digital Converter, 14 Bits Temperature Resolution, -40 to 125 degC, 8-Pin SOIC (S8+4), Pb-Free|U8|MAXM-S8+4_N|MAX31855EASA+|1
