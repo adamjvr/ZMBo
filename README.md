@@ -12,7 +12,7 @@ Specs:
 - 2 Thermistor channels
 - 2 Thermocouple ADCs
 - TinyG Firmware, adapted for 3D printing
-
+- Offboard Expansion Port, generic GPIO expansion, and Kinen interface compatible (https://github.com/kinen/kinen/wiki)
 
 Depreciated Specs:
 Specs:
