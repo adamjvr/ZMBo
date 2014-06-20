@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=3.3VCC Pin=C22-1
+Removed Pin From Net: NetName=3.3VCC Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=+5VCC Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=+5VCC Pin=C26-2
+Removed Pin From Net: NetName=3.3KVCC Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=3.3KVCC Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=D10-1
+Removed Pin From Net: NetName=3.3KVCC Pin=R12-2
+Removed Pin From Net: NetName=3.3VCC Pin=U2-1
+Removed Pin From Net: NetName=NetC24_2 Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Pin From Net: NetName=3.3KVCC Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=+5VCC Pin=U3-5
+Removed Pin From Net: NetName=+5VCC Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Member From Class: ClassName=Designator Member=C20
+Removed Member From Class: ClassName=Designator Member=C21
+Removed Member From Class: ClassName=Designator Member=C25
+Removed Member From Class: ClassName=Designator Member=C26
+Removed Member From Class: ClassName=Designator Member=C27
+Removed Member From Class: ClassName=Designator Member=C28
+Removed Member From Class: ClassName=Designator Member=C29
+Removed Member From Class: ClassName=Designator Member=D10
+Removed Member From Class: ClassName=Designator Member=U3
+Change Component DesignItemId : Designator=U2 Old DesignItemId=TPS73733QDRBRQ1 New DesignItemId=TPS62142RGTT
+Change Component Footprint: Designator=R12 Old Footprint=SM 0805 - gap trimmed New Footprint=J1-0603
+Change Component Footprint: Designator=U2 Old Footprint=TI-DRB8-1750X1500TP_V New Footprint=RGT16-1700X1700TP
+Change Component Comment : Designator=C22 Old Comment=1206 Tantulum New Comment=1206
+Change Component Comment : Designator=R12 Old Comment=Res3 New Comment=0603
+Change Component Comment : Designator=U2 Old Comment=TPS73733QDRBRQ1 New Comment=TPS62142RGTT
+Change Component Designator: OldDesignator=T3_FETChannel1 NewDesignator=FC1_FETChannel1
+Change Component Designator: OldDesignator=T3_FETChannel2 NewDesignator=FC1_FETChannel2
+Change Component Designator: OldDesignator=T3_FETChannel3 NewDesignator=FC1_FETChannel3
+Change Component Designator: OldDesignator=T3_FETChannel4 NewDesignator=FC1_FETChannel4
+Change Component Designator: OldDesignator=T3_FETChannel5 NewDesignator=FC1_FETChannel5
+Change Component Designator: OldDesignator=T3_FETChannel6 NewDesignator=FC1_FETChannel6
+Added Component: Designator=L2(VLS252012T-2R2M1R3)
+Added Component: Designator=PG_TP(PIN1)
+Added Component: Designator=R37(J1-0603)
+Added Component: Designator=R38(J1-0603)
+Added Pin To Net: NetName=3.3VCC Pin=L2-2
+Added Pin To Net: NetName=3.3VCC Pin=R12-2
+Added Pin To Net: NetName=3.3VCC Pin=R37-2
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetC24_2 Pin=U2-9
+Added Pin To Net: NetName=3.3VCC Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=Logic Source1-2
+Added Pin To Net: NetName=NetC22_1 Pin=U2-10
+Added Pin To Net: NetName=NetC22_1 Pin=U2-11
+Added Pin To Net: NetName=NetC22_1 Pin=U2-12
+Added Pin To Net: NetName=NetC22_1 Pin=U2-13
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U2-2
+Added Pin To Net: NetName=NetL2_1 Pin=U2-3
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetPG_TP_1 Pin=PG_TP-1
+Added Pin To Net: NetName=NetPG_TP_1 Pin=R12-1
+Added Pin To Net: NetName=NetPG_TP_1 Pin=U2-4
+Added Net: Name=NetPG_TP_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=R38-2
+Added Pin To Net: NetName=NetR37_1 Pin=U2-5
+Added Net: Name=NetR37_1
+Added Member To Class: ClassName=FETChannel1 Member=Component FC1_FETChannel1 (FC1) Molex 70543-02
+Added Member To Class: ClassName=FETChannel2 Member=Component FC1_FETChannel2 (FC1) Molex 70543-02
+Added Member To Class: ClassName=FETChannel3 Member=Component FC1_FETChannel3 (FC1) Molex 70543-02
+Added Member To Class: ClassName=FETChannel4 Member=Component FC1_FETChannel4 (FC1) Molex 70543-02
+Added Member To Class: ClassName=FETChannel5 Member=Component FC1_FETChannel5 (FC1) Molex 70543-02
+Added Member To Class: ClassName=FETChannel6 Member=Component FC1_FETChannel6 (FC1) Molex 70543-02
+Added Member To Class: ClassName=Designator Member=Component L2 VLS252012T-2R2M1R3
+Added Member To Class: ClassName=Designator Member=Component PG_TP Socket
+Added Member To Class: ClassName=Designator Member=Component R37 0603
+Added Member To Class: ClassName=Designator Member=Component R38 0603

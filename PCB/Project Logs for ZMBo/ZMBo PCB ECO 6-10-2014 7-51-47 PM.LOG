@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+12VCC2 Pin=F2-2
+Removed Pin From Net: NetName=+12VCC2 Pin=F2-2
+Removed Pin From Net: NetName=NetF1_1 Pin=Power Input1-1
+Removed Pin From Net: NetName=NetF2_1 Pin=Power Input1-3
+Removed Pin From Net: NetName=+12VCC2 Pin=R1-2
+Added Component: Designator=F1(F1210_M)
+Added Component: Designator=F3(F1210_M)
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=+12VCC2 Pin=F1-2
+Added Pin To Net: NetName=+12VCC3 Pin=F2-2
+Added Pin To Net: NetName=+12VCC3 Pin=F2-2
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=+12VCC1 Pin=F3-2
+Added Pin To Net: NetName=NetF2_1 Pin=Power Input1-1
+Added Pin To Net: NetName=NetF1_1 Pin=Power Input1-3
+Added Pin To Net: NetName=+12VCC3 Pin=R1-2
+Change Net Name : Old Net Name=+12VCC2 New Net Name=+12VCC3
+Change Net Name : Old Net Name=+12VCC3 New Net Name=+12VCC2
+Added Member To Class: ClassName=Designator Member=Component F1 LittleFuse F1210
+Added Member To Class: ClassName=Designator Member=Component F3 LittleFuse F1210

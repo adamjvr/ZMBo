@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VCC_SOURCE Pin=D3_FETChannel6-2
+Removed Pin From Net: NetName=VCC_SOURCE Pin=FC1_FETChannel6-1
+Removed Pin From Net: NetName=VCC_SOURCE Pin=FET_TP_FETChannel6-1
+Removed Pin From Net: NetName=GND Pin=Q1_FETChannel6-3
+Removed Pin From Net: NetName=VCC_SOURCE Pin=R4_FETChannel6-2
+Removed Pin From Net: NetName=FET_PWM Pin=R5_FETChannel6-1
+Removed Pin From Net: NetName=FET_PWM Pin=R6_FETChannel6-1
+Removed Pin From Net: NetName=GND Pin=R6_FETChannel6-2
+Removed Member From Class: ClassName=FET_PWM[1..6] Member=FET_PWM6
+Added Pin To Net: NetName=VCC_SOURCE Pin=C3-1
+Added Pin To Net: NetName=VCC_SOURCE Pin=C5-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=C6-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=D4-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=F2-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=F2-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=R1-2
+Added Pin To Net: NetName=MISO Pin=U8-25
+Added Pin To Net: NetName=SCLK Pin=U8-27
+Change Net Name : Old Net Name=FET_PWM4 New Net Name=NetU8_22
+Change Net Name : Old Net Name=FET_PWM6 New Net Name=FET_PWM4
+Change Net Name : Old Net Name=VCC_SOURCE New Net Name=+12VCC2
+Change Class Name : Old Net Name=FET_PWM[1..6] New Net Name=FET_PWM[1..5]
+Change Room Name: Old Name=FETChannel6 New Name=ATSAM4E16EA_AU Main Controller
+Change Room Scope: Old Scope=InComponentClass('FETChannel6') New Scope=InComponentClass('ATSAM4E16EA_AU Main Controller')
+Added Room: Name=Designator

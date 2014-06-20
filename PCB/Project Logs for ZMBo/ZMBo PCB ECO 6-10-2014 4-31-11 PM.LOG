@@ -1,0 +1,44 @@
+Added Component: Designator=C22(C1206)
+Added Component: Designator=C23(Panasonic VS C)
+Added Component: Designator=C24(1608[0603])
+Added Component: Designator=D9(SM 0805 polarized)
+Added Component: Designator=Logic Source1(HDR1X3)
+Added Component: Designator=R11(SM 0805 - gap trimmed)
+Added Component: Designator=U2(RGT16-1700X1700TP)
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetC56_2 Pin=Logic Source1-1
+Added Pin To Net: NetName=NetC22_1 Pin=Logic Source1-2
+Added Pin To Net: NetName=+5VCC Pin=Logic Source1-3
+Added Pin To Net: NetName=NetD9_2 Pin=R11-1
+Added Pin To Net: NetName=3.3VCC Pin=R11-2
+Added Pin To Net: NetName=NetL2_1 Pin=U2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U2-2
+Added Pin To Net: NetName=NetL2_1 Pin=U2-3
+Added Pin To Net: NetName=NetPG_TP_1 Pin=U2-4
+Added Pin To Net: NetName=NetR37_1 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetC24_2 Pin=U2-9
+Added Pin To Net: NetName=NetC22_1 Pin=U2-10
+Added Pin To Net: NetName=NetC22_1 Pin=U2-11
+Added Pin To Net: NetName=NetC22_1 Pin=U2-12
+Added Pin To Net: NetName=NetC22_1 Pin=U2-13
+Added Pin To Net: NetName=3.3VCC Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Member To Class: ClassName=Designator Member=Component C22 1206
+Added Member To Class: ClassName=Designator Member=Component C23 VS C
+Added Member To Class: ClassName=Designator Member=Component C24 0603
+Added Member To Class: ClassName=Designator Member=Component D9 LED2
+Added Member To Class: ClassName=Designator Member=Component Logic Source1 Header 3
+Added Member To Class: ClassName=Designator Member=Component R11 Res3
+Added Member To Class: ClassName=Designator Member=Component U2 TPS62142RGTT
+Added Room: Name=ATSAM4E16EA_AU Main Controller
+Added Room: Name=Designator

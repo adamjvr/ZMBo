@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=F? NewDesignator=F4
+Added Component: Designator=FB6(BLM18PG121SN1D)
+Added Pin To Net: NetName=INPUT_GND Pin=FB6-1
+Change Net Name : Old Net Name=NetF?_2 New Net Name=NetF4_2
+Added Pin To Net: NetName=NetFB6_2 Pin=FB6-2
+Added Pin To Net: NetName=NetFB6_2 Pin=USB-6
+Added Net: Name=NetFB6_2
+Added Member To Class: ClassName=ATSAM4E16EA_AU Main Controller Member=Component FB6 BLM15HG601SN1D

@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=T3_FETChannel1 NewDesignator=FC1_FETChannel1
+Change Component Designator: OldDesignator=T3_FETChannel2 NewDesignator=FC1_FETChannel2
+Change Component Designator: OldDesignator=T3_FETChannel3 NewDesignator=FC1_FETChannel3
+Change Component Designator: OldDesignator=T3_FETChannel4 NewDesignator=FC1_FETChannel4
+Change Component Designator: OldDesignator=T3_FETChannel5 NewDesignator=FC1_FETChannel5
+Change Component Designator: OldDesignator=T3_FETChannel6 NewDesignator=FC1_FETChannel6
+Added Component: Designator=HS1_DriverChannelDRV88251(DA-T263-101E)
+Added Component: Designator=HS1_DriverChannelDRV88252(DA-T263-101E)
+Added Component: Designator=HS1_DriverChannelDRV88253(DA-T263-101E)
+Added Component: Designator=HS1_DriverChannelDRV88254(DA-T263-101E)
+Added Component: Designator=HS1_DriverChannelDRV88255(DA-T263-101E)
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88251-1
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88251-2
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88252-1
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88252-2
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88253-1
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88253-2
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88254-1
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88254-2
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88255-1
+Added Pin To Net: NetName=GND Pin=HS1_DriverChannelDRV88255-2
+Added Member To Class: ClassName=DriverChannelDRV88251 Member=Component HS1_DriverChannelDRV88251 (HS1) DA-T263-101E Heatsink
+Added Member To Class: ClassName=DriverChannelDRV88252 Member=Component HS1_DriverChannelDRV88252 (HS1) DA-T263-101E Heatsink
+Added Member To Class: ClassName=DriverChannelDRV88253 Member=Component HS1_DriverChannelDRV88253 (HS1) DA-T263-101E Heatsink
+Added Member To Class: ClassName=DriverChannelDRV88254 Member=Component HS1_DriverChannelDRV88254 (HS1) DA-T263-101E Heatsink
+Added Member To Class: ClassName=DriverChannelDRV88255 Member=Component HS1_DriverChannelDRV88255 (HS1) DA-T263-101E Heatsink

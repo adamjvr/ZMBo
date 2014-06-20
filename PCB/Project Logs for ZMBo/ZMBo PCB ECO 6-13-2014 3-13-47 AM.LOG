@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TC_CS1 Pin=U5-66
+Removed Pin From Net: NetName=TC_CS2 Pin=U5-75
+Change Component Designator: OldDesignator=JTAG/DEBUG NewDesignator=JTAG/DEBUG1
+Added Room: Name=ATSAM4E16EA_AU Main Controller
+Added Room: Name=Designator

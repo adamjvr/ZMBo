@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=FET_TP_1_FETChannel1 NewDesignator=FET_TP_FETChannel1
+Change Component Designator: OldDesignator=FET_TP_1_FETChannel2 NewDesignator=FET_TP_FETChannel2
+Change Component Designator: OldDesignator=FET_TP_1_FETChannel3 NewDesignator=FET_TP_FETChannel3
+Change Component Designator: OldDesignator=FET_TP_1_FETChannel4 NewDesignator=FET_TP_FETChannel4
+Change Component Designator: OldDesignator=FET_TP_1_FETChannel5 NewDesignator=FET_TP_FETChannel5
+Change Component Designator: OldDesignator=FET_TP_1_FETChannel6 NewDesignator=FET_TP_FETChannel6
+Change Component Designator: OldDesignator=FET_TP_GND1_FETChannel1 NewDesignator=FET_TP_GND_FETChannel1
+Change Component Designator: OldDesignator=FET_TP_GND1_FETChannel2 NewDesignator=FET_TP_GND_FETChannel2
+Change Component Designator: OldDesignator=FET_TP_GND1_FETChannel3 NewDesignator=FET_TP_GND_FETChannel3
+Change Component Designator: OldDesignator=FET_TP_GND1_FETChannel4 NewDesignator=FET_TP_GND_FETChannel4
+Change Component Designator: OldDesignator=FET_TP_GND1_FETChannel5 NewDesignator=FET_TP_GND_FETChannel5
+Change Component Designator: OldDesignator=FET_TP_GND1_FETChannel6 NewDesignator=FET_TP_GND_FETChannel6
+Change Net Name : Old Net Name=NetPG_TP_1 New Net Name=NetR12_1

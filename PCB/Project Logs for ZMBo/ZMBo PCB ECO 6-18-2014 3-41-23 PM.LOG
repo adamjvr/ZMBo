@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC_SOURCE Pin=D3_FETChannel6-2
+Removed Pin From Net: NetName=VCC_SOURCE Pin=FC1_FETChannel6-1
+Removed Pin From Net: NetName=VCC_SOURCE Pin=FET_TP_FETChannel6-1
+Removed Pin From Net: NetName=GND Pin=Q1_FETChannel6-3
+Removed Pin From Net: NetName=VCC_SOURCE Pin=R4_FETChannel6-2
+Removed Pin From Net: NetName=FET_PWM Pin=R5_FETChannel6-1
+Removed Pin From Net: NetName=FET_PWM Pin=R6_FETChannel6-1
+Removed Pin From Net: NetName=GND Pin=R6_FETChannel6-2
+Change Net Name : Old Net Name=FET_PWM6 New Net Name=NetU8_22

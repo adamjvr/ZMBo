@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=FET_PWM[1..6] Member=NetU8_22
+Added Pin To Net: NetName=VCC_SOURCE Pin=C3-1
+Added Pin To Net: NetName=VCC_SOURCE Pin=C5-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=C6-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=D4-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=F2-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=F2-2
+Added Pin To Net: NetName=VCC_SOURCE Pin=R1-2
+Change Net Name : Old Net Name=VCC_SOURCE New Net Name=+12VCC2
+Change Class Name : Old Net Name=FET_PWM[1..6] New Net Name=FET_PWM[1..5]

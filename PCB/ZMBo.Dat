@@ -1,50 +1,50 @@
-Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ZMBo.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\ZMBo\PCB\ZMBo.PrjPcb|ReportField=Title~Bill of Materials For Project [ZMBo.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~173|ReportField=ReportTime~5:18:04 PM|ReportField=ReportDate~6/4/2014|ReportField=ReportDateTime~6/4/2014 5:18:04 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~6/4/2014|ReportField=CurrentTime~5:17:48 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\ZMBo\PCB\ATSAM4E16EA_AU Main Controller.SchDoc|ReportField=DocumentName~ATSAM4E16EA_AU Main Controller.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~6/4/2014|ReportField=Organization~|ReportField=ProjectName~ZMBo.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~ZMBo.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\ZMBo\PCB\ZMBo.PrjPcb
-0603|Capacitor (Semiconductor SIM Model)|C1, C2, C24, C29, C32, C33, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C58, C59, C64, C65, C66, C67, C68, C71, C72, C73, C74, C75, C76, C77, C78, C79|1608[0603]|Cap Semi|44
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ZMBo.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\ZMBo\PCB\ZMBo.PrjPcb|ReportField=Title~Bill of Materials For Project [ZMBo.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~294|ReportField=ReportTime~8:26:00 PM|ReportField=ReportDate~6/9/2014|ReportField=ReportDateTime~6/9/2014 8:26:00 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~6/9/2014|ReportField=CurrentTime~8:25:48 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\ZMBo\PCB\ATSAM4E16EA_AU Main Controller.SchDoc|ReportField=DocumentName~ATSAM4E16EA_AU Main Controller.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~6/9/2014|ReportField=Organization~|ReportField=ProjectName~ZMBo.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~ZMBo.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\ZMBo\PCB\ZMBo.PrjPcb
+0603|Capacitor (Semiconductor SIM Model)|C1_EndstopChannel1, C1_EndstopChannel2, C1_EndstopChannel3, C2_EndstopChannel1, C2_EndstopChannel2, C2_EndstopChannel3, C24, C29, C32, C33, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C58, C59, C64, C65, C66_DriverChannelDRV88251, C66_DriverChannelDRV88252, C66_DriverChannelDRV88253, C66_DriverChannelDRV88254, C66_DriverChannelDRV88255, C67_DriverChannelDRV88251, C67_DriverChannelDRV88252, C67_DriverChannelDRV88253, C67_DriverChannelDRV88254, C67_DriverChannelDRV88255, C68_DriverChannelDRV88251, C68_DriverChannelDRV88252, C68_DriverChannelDRV88253, C68_DriverChannelDRV88254, C68_DriverChannelDRV88255, C71_DriverChannelDRV88251, C71_DriverChannelDRV88252, C71_DriverChannelDRV88253, C71_DriverChannelDRV88254, C71_DriverChannelDRV88255, C72, C73, C74, C75, C76, C77, C78, C79, C80|1608[0603]|Cap Semi|65
 VAS D|Polarized Capacitor (Radial)|C3, C4, C12, C13, C16, C17|Panasonic VS D|Cap Pol1|6
 1206|Capacitor (Semiconductor SIM Model)|C5, C6, C14, C15, C18, C19|C1206|Cap Semi|6
-Cap Semi|Capacitor (Semiconductor SIM Model)|C7, C11, C30, C31|1608[0603]|Cap Semi|4
+Cap Semi|Capacitor (Semiconductor SIM Model)|C7, C11, C30_ThermistorChannel1, C30_ThermistorChannel2, C31_ThermocoupleChannel1, C31_ThermocoupleChannel2, C60, C61, C62, C63|1608[0603]|Cap Semi|10
 Cap Semi|Capacitor (Semiconductor SIM Model)|C8, C10|C1206|Cap Semi|2
-VS C|Capacitor (Semiconductor SIM Model), Capacitor (Semiconductor SIM Model), Capacitor (Semiconductor SIM Model), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial)|C9, C23, C28, C34, C35, C69, C70|Panasonic VS C|Cap Semi, Cap Semi, Cap Semi, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1|7
+VS C|Capacitor (Semiconductor SIM Model), Capacitor (Semiconductor SIM Model), Capacitor (Semiconductor SIM Model), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial)|C9, C23, C28, C34, C35, C69_DriverChannelDRV88251, C69_DriverChannelDRV88252, C69_DriverChannelDRV88253, C69_DriverChannelDRV88254, C69_DriverChannelDRV88255, C70_DriverChannelDRV88251, C70_DriverChannelDRV88252, C70_DriverChannelDRV88253, C70_DriverChannelDRV88254, C70_DriverChannelDRV88255|Panasonic VS C|Cap Semi, Cap Semi, Cap Semi, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1, Cap Pol1|15
 1206 Tantulum|Capacitor (Semiconductor SIM Model)|C20, C21, C22, C25, C26, C27|C1206|Cap Semi|6
-Cap Semi|Capacitor (Semiconductor SIM Model)|C60, C61, C62, C63|CAPC1608L|Cap Semi|4
 ARM Cortex JTAG-DEBUG||CP_JTAG|FTSH-105-XX-X-DV|ARM Cortex JTAG-DEBUG Header|1
+Tactile Switch||CP_RESET|Mountain Switch TS6324T1607|Tactile Switch|1
 SZMM3Z4V7T1G|Zener Diode|D1|SZMM3Z4V7T1G|D Zener|1
-LED1|Typical RED GaAs LED|D2|SM 0805 polarized|LED1|1
-B240A-13-F|Schottky Diode|D3|SMB|D Schottky|1
+LED1|Typical RED GaAs LED|D2_FETChannel1, D2_FETChannel2, D2_FETChannel3, D2_FETChannel4, D2_FETChannel5, D2_FETChannel6|SM 0805 polarized|LED1|6
+B240A-13-F|Schottky Diode|D3_FETChannel1, D3_FETChannel2, D3_FETChannel3, D3_FETChannel4, D3_FETChannel5, D3_FETChannel6|SMB|D Schottky|6
 SK310A-TP|Schottky Diode|D4, D6, D8|SK310A-TP|D Schottky|3
 PMEG1030EH_EJ|Default Diode|D5|PMEG1030EH_EJ|PMEG1030EH_EJ|1
 LED2|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D7, D9, D10|SM 0805 polarized|LED2|3
-Diode 1N4148|High Conductance Fast Diode|D11, D12|1N4148WT|Diode 1N4148|2
-Header 2|Header, 2-Pin|DBGEN1, kRESET, P1, P4, TRST1|HDR1X2|Header 2|5
+Diode 1N4148|High Conductance Fast Diode|D11_ThermistorChannel1, D11_ThermistorChannel2, D12_ThermistorChannel1, D12_ThermistorChannel2|1N4148WT|Diode 1N4148|4
+Header 2|Header, 2-Pin|DBGEN1, kRESET, P4, TRST1|HDR1X2|Header 2|4
 Header 20X2|Header, 20-Pin, Dual row|EXP0|HDR2X20|Header 20X2|1
-MiniFuse 153008|Fuse|F1, F2, F3|TinyFuseATO_Carrier|Fuse 1|3
+KEYSTONE  3587TR|Fuse|F1, F2, F3|KEYSTONE  3587TR|Fuse 1|3
 Ferrite|Inductor|FB1, FB2, FB3|SM 0805 - gap trimmed|Inductor|3
-MH2029-300Y|Inductor|FB4, FB5, FB6, FB9|SM 0805 - gap trimmed|Inductor|4
-BLM15HG601SN1D|BLM15HG601SN1D|FB7, FB8|BLM18PG121SN1D|BLM15HG601SN1D|2
-Socket|Socket|FET_TP_1, FET_TP_GND1|PIN1|Socket|2
+MH2029-300Y|Inductor|FB4, FB9|SM 0805 - gap trimmed|Inductor|2
+BLM15HG601SN1D|BLM15HG601SN1D|FB5, FB6, FB7, FB8|BLM18PG121SN1D|BLM15HG601SN1D|4
+Socket|Socket|FET_TP_1_FETChannel1, FET_TP_1_FETChannel2, FET_TP_1_FETChannel3, FET_TP_1_FETChannel4, FET_TP_1_FETChannel5, FET_TP_1_FETChannel6, FET_TP_GND1_FETChannel1, FET_TP_GND1_FETChannel2, FET_TP_GND1_FETChannel3, FET_TP_GND1_FETChannel4, FET_TP_GND1_FETChannel5, FET_TP_GND1_FETChannel6|PIN1|Socket|12
 S9015E-05-ND||JTAG/DEBUG1|S9015E-05-ND|S9015E-05-ND|1
 Inductor|Inductor|L1|CIP0530LR3R3|Inductor|1
 Header 3|Header, 3-Pin|Logic Source1, SPD1|HDR1X3|Header 3|2
-Molex 0705430003|Molex 4 Pin Clip Connector|M1|Molex 0705430003|Molex 0705430003 Alt|1
-Molex 70543-03||MAX1, MIN1|MOLEX Endstop|Molex Endstop|2
-Molex 70543-02|Molex 70543-02|P2, T2|Molex 70543-02|Molex 70543-02|2
-Header 5|Header, 5-Pin|P3|HDR1X5|Header 5|1
-con-phoenix-508||Power Input1|con-phoenix-508|con-phoenix-508|1
-FDT439N|N-Channel MOSFET|Q1|Fairchild FDT439N|Fairchild FDT439N|1
-Res3|Resistor|R1, R7, R9, R10, R13, R14, R21, R23|J1-0603|Res3|8
-0603|Resistor|R2, R3, R4, R5, R6, R15, R16, R17, R18, R19, R20, R22, R24, R25, R26, R27, R28, R29, R30, R31, R34, R35|J1-0603|Res3|22
+Molex 0705430003|Molex 4 Pin Clip Connector|M1_DriverChannelDRV88251, M1_DriverChannelDRV88252, M1_DriverChannelDRV88253, M1_DriverChannelDRV88254, M1_DriverChannelDRV88255|Molex 0705430003|Molex 0705430003 Alt|5
+Molex 70543-03||MAX1_EndstopChannel1, MAX1_EndstopChannel2, MAX1_EndstopChannel3, MIN1_EndstopChannel1, MIN1_EndstopChannel2, MIN1_EndstopChannel3|MOLEX Endstop|Molex Endstop|6
+Molex 70543-02|Molex 70543-02|P2_ThermistorChannel1, P2_ThermistorChannel2, T2_ThermocoupleChannel1, T2_ThermocoupleChannel2, T3_FETChannel1, T3_FETChannel2, T3_FETChannel3, T3_FETChannel4, T3_FETChannel5, T3_FETChannel6|Molex 70543-02|Molex 70543-02|10
+Header 5|Header, 5-Pin|P3_DriverChannelDRV88251, P3_DriverChannelDRV88252, P3_DriverChannelDRV88253, P3_DriverChannelDRV88254, P3_DriverChannelDRV88255|HDR1X5|Header 5|5
+con-phoenix-508||Power Input1|con-phoenix-508-6|con-phoenix-508|1
+FDT439N|N-Channel MOSFET|Q1_FETChannel1, Q1_FETChannel2, Q1_FETChannel3, Q1_FETChannel4, Q1_FETChannel5, Q1_FETChannel6|Fairchild FDT439N|Fairchild FDT439N|6
+Res3|Resistor|R1, R7, R9, R10, R13_ThermistorChannel1, R13_ThermistorChannel2, R14_ThermistorChannel1, R14_ThermistorChannel2, R21, R23|J1-0603|Res3|10
+0603|Resistor|R2_EndstopChannel1, R2_EndstopChannel2, R2_EndstopChannel3, R3_EndstopChannel1, R3_EndstopChannel2, R3_EndstopChannel3, R5_FETChannel1, R5_FETChannel2, R5_FETChannel3, R5_FETChannel4, R5_FETChannel5, R5_FETChannel6, R6_FETChannel1, R6_FETChannel2, R6_FETChannel3, R6_FETChannel4, R6_FETChannel5, R6_FETChannel6, R15, R16, R17, R18, R19, R20, R22, R24, R25, R26, R27, R28, R29, R30_DriverChannelDRV88251, R30_DriverChannelDRV88252, R30_DriverChannelDRV88253, R30_DriverChannelDRV88254, R30_DriverChannelDRV88255, R31_DriverChannelDRV88251, R31_DriverChannelDRV88252, R31_DriverChannelDRV88253, R31_DriverChannelDRV88254, R31_DriverChannelDRV88255, R34, R35, R36|J1-0603|Res3|44
+0805|Resistor|R4_FETChannel1, R4_FETChannel2, R4_FETChannel3, R4_FETChannel4, R4_FETChannel5, R4_FETChannel6|SM 0805 - gap trimmed|Res3|6
 Res3|Resistor|R8, R11, R12|SM 0805 - gap trimmed|Res3|3
-2512|Resistor|R32, R33|Resistor2512|Res3|2
+2512|Resistor|R32_DriverChannelDRV88251, R32_DriverChannelDRV88252, R32_DriverChannelDRV88253, R32_DriverChannelDRV88254, R32_DriverChannelDRV88255, R33_DriverChannelDRV88251, R33_DriverChannelDRV88252, R33_DriverChannelDRV88253, R33_DriverChannelDRV88254, R33_DriverChannelDRV88255|Resistor2512|Res3|10
 Tactile Switch||RESET1|TL3301|Tactile Switch|1
-con-phoenic-508-12|con-phoenic-508-12|T1|con-phoenix-508 - 12|con-phoenic-508-10_1|1
-TP4|Socket|THM_TP1|PIN1|Socket|1
+TP4|Socket|THM_TP1_ThermistorChannel1, THM_TP1_ThermistorChannel2|PIN1|Socket|2
 MIC24085||U1|MIC24085-AYML|MIC24085|1
 TPS73733QDRBRQ1|Single Output Automotive LDO, 1 A, Fixed 3.3 V Output, 2.2 to 5.5 V Input, with Reverse Current Protection, 8-pin SON (DRB), -40 to 125 degC, Green (RoHS & no Sb/Br)|U2, U3|TI-DRB8-1750X1500TP_V|TPS73733QDRBRQ1|2
-MAX31855EASA+|Cold Junction Compensated Thermocouple to Digital Converter, 14 Bits Temperature Resolution, -40 to 125 degC, 8-Pin SOIC (S8+4), Pb-Free|U4|MAXM-S8+4_N|MAX31855EASA+|1
+MAX31855EASA+|Cold Junction Compensated Thermocouple to Digital Converter, 14 Bits Temperature Resolution, -40 to 125 degC, 8-Pin SOIC (S8+4), Pb-Free|U4_ThermocoupleChannel1, U4_ThermocoupleChannel2|MAXM-S8+4_N|MAX31855EASA+|2
 ATSAM4E16EA-AU||U5|LQFP144_N|ATML-ATSAM4EXEA-LQFP-144|1
 ADuM4160|USB Opto Isolator|U6|ADuM4160|ADuM4160|1
-DRV8825|DRV8825 Ti Stepper Driver|U7|DRV8825|DRV8825|1
+DRV8825|DRV8825 Ti Stepper Driver|U7_DriverChannelDRV88251, U7_DriverChannelDRV88252, U7_DriverChannelDRV88253, U7_DriverChannelDRV88254, U7_DriverChannelDRV88255|DRV8825|DRV8825|5
 MKL05Z32VLF4|ARM Cortex M0+|U8|MKL05Z32VLF4|MKL05Z32VLF4|1
-USB-B||USB||USB-B|1
+USB-B||USB|PN61729|USB-B|1
 ABS07-32.768KHZ-T|ABS07-32.768KHZ-T RTC Crystal Oscillator|X1|ABS07-32.768KHZ-T|ABS07-32.768KHZ-T|1
-445C35A12M00000|Crystal Oscillator|X2|R38|XTAL|1
+445C35A12M00000|Crystal Oscillator|X2|445C35A12M00000|XTAL|1

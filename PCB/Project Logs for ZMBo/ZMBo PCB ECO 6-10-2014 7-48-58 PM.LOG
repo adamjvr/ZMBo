@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+12VCC1 Pin=C3-1
+Removed Pin From Net: NetName=+12VCC1 Pin=C5-2
+Removed Pin From Net: NetName=+12VCC1 Pin=C6-2
+Removed Pin From Net: NetName=+12VCC3 Pin=C16-1
+Removed Pin From Net: NetName=+12VCC3 Pin=C18-2
+Removed Pin From Net: NetName=+12VCC3 Pin=C19-2
+Removed Pin From Net: NetName=+12VCC1 Pin=D4-2
+Removed Pin From Net: NetName=+12VCC3 Pin=D8-2
+Removed Pin From Net: NetName=+12VCC1 Pin=F1-2
+Removed Pin From Net: NetName=+12VCC1 Pin=F1-2
+Removed Pin From Net: NetName=+12VCC3 Pin=F3-2
+Removed Pin From Net: NetName=+12VCC3 Pin=F3-2
+Change Component Comment : Designator=F1 Old Comment=KEYSTONE  3587TR New Comment=LittleFuse F1210
+Change Component Comment : Designator=F3 Old Comment=KEYSTONE  3587TR New Comment=LittleFuse F1210
+Added Pin To Net: NetName=+12VCC3 Pin=C3-1
+Added Pin To Net: NetName=+12VCC3 Pin=C5-2
+Added Pin To Net: NetName=+12VCC3 Pin=C6-2
+Added Pin To Net: NetName=+12VCC1 Pin=C16-1
+Added Pin To Net: NetName=+12VCC1 Pin=C18-2
+Added Pin To Net: NetName=+12VCC1 Pin=C19-2
+Added Pin To Net: NetName=+12VCC3 Pin=D4-2
+Added Pin To Net: NetName=+12VCC1 Pin=D8-2
+Added Pin To Net: NetName=+12VCC3 Pin=F1-2
+Added Pin To Net: NetName=+12VCC3 Pin=F1-2
+Added Pin To Net: NetName=+12VCC1 Pin=F3-2
+Added Pin To Net: NetName=+12VCC1 Pin=F3-2

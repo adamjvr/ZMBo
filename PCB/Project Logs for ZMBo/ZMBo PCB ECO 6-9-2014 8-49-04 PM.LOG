@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=3.3VCC Pin=FB6-1
+Removed Member From Class: ClassName=ATSAM4E16EA_AU Main Controller Member=C52
+Removed Member From Class: ClassName=ATSAM4E16EA_AU Main Controller Member=C53
+Removed Member From Class: ClassName=ATSAM4E16EA_AU Main Controller Member=FB6
