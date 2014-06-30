@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=FB1-2
-Removed Pin From Net: NetName=GND Pin=FB2-2
-Removed Pin From Net: NetName=GND Pin=FB3-2
-Removed Member From Class: ClassName=Designator Member=FB1
-Removed Member From Class: ClassName=Designator Member=FB2
-Removed Member From Class: ClassName=Designator Member=FB3
-Added Pin To Net: NetName=GND Pin=Power Input1-2
-Added Pin To Net: NetName=GND Pin=Power Input1-4
-Added Pin To Net: NetName=GND Pin=Power Input1-6

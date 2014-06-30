@@ -63,22 +63,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=FET Channel.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document4]
 DocumentPath=Thermistor Channel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,7 +78,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document4]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,6 +86,22 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document5]
+DocumentPath=FET Channel.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1098,6 +1098,16 @@ OutputName2=Export STEP
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
+OutputType3=AutoCAD dwg/dxf PCB
+OutputName3=AutoCAD dwg/dxf File PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=AutoCAD dwg/dxf Schematic
+OutputName4=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
 
 [Modification Levels]
 Type1=1
