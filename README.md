@@ -5,13 +5,14 @@ ZPress Motherboard, a TinyG hardware platform for RepRap 3D printers
 
 Update 5/28/14
 Specs:
-- Atmel ATSAM4E16E ARM Cortex M4
+- Atmel ATSAM4E16E ARM Cortex M4 Main Processor
+- Atmel ATSAMD21G18G ARM Cortex M0+ peripheral Coprocessor
 - 5 Texas Instruments DRV8825 Stepper Drivers (can handle NEMA23s)
 - Max/Min Endstops for 3 Axis
 - PWM driven power FET channels
 - 2 Thermistor channels
 - 2 Thermocouple ADCs
-- TinyG Firmware, adapted for 3D printing
+- TinyG Firmware, 3D printing capabilities provided via coprocessor and Kinen interface.
 - Offboard Expansion Port, generic GPIO expansion, and Kinen interface compatible (https://github.com/kinen/kinen/wiki)
 
 Depreciated Specs:
